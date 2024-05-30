@@ -1,0 +1,4 @@
+myprogram1.SplashScreen$1
+BelardoSanJuan.SplashScreen$1
+myprogram1.SplashScreen
+BelardoSanJuan.SplashScreen
